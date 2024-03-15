@@ -12,7 +12,8 @@ generaciones de robots que utilizan un ANFIS y Un SOM para transmitir los compor
 Con el ánimo de querer agregar naturalidad a ese proceso de transmisión y enseñanza cultural, de desarrolla en este repositorio a manera de NOTEBOOKS y source files,
 un modelo que es capaz de entender la relación númerica con las instrucciones que se quieren dar en lenguaje natural y que son implementados en el SOFTWARE WEBOTS.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MaL60VVGqQg" frameborder="0" allowfullscreen></iframe>
+[Ver video](https://www.youtube.com/watch?v=MaL60VVGqQg)
+
 
 ![Arquitectura del modelo](data/nlg.png)
 
