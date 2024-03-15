@@ -1,0 +1,92 @@
+Cuando estés muy lejos de la pared, pero te estás acercando a ella, gira tu rueda izquierda rápidamente hacia delante, y gira tu rueda derecha muy lento hacia atrás
+si te estas acercando a la pared, pero aún estás demasiado lejos de ella, gira tu rueda izquierda rápidamente hacia adelante y la rueda derecha lentamente hacia atrás.
+En caso de estar muy lejos de la pared y estás acercándote, gira rápidamente la rueda izquierda hacia delante mientras giras la rueda derecha hacia atrás, pero de manera lenta
+En el caso de estar demasiado lejos de la pared y estás acercándote a ella, gira rápidamente la rueda izquierda hacia delante y la rueda derecha hacia atrás de manera lenta
+
+
+Cuando estés lejos de la pared, pero te estás acercando a ella, gira tu rueda izquierda medio rápido hacia delante, y gira tu rueda derecha muy lento hacia delante.
+si te estás acercando a la pared pero aún estás lejos, gira tu rueda izquierda más o menos rápido hacia adelante y la derecha muy lento adelante 
+en caso de que te estés acercando al pared pero aún estés lejos, gira tu rueda izquierda algo rápido hacía adelante y la rueda izquierda muy lento hacía adelante 
+en caso de estar lejos de la pared pero te estés acercando, gira tu rueda izquierda medio rápido hacia adelante y la rueda izquierda muy lento hacia adelante 
+
+
+Cuando estés a la distancia requerida, pero te estás acercando a la pared, gira tu rueda izquierda muy lento hacia atrás, y gira tu rueda derecha rápidamente hacia delante
+si estas en la distancia que es, pero te vas acercando a ella, debes girar tu rueda izquierda muy lento hacia atrás y tu rueda derecha rápidamente hacia adelante
+en caso de que te estés acercando mientras estés a la distancia requerida, gira tu rueda izquierda muy lento hacia atrás mientras giras la derecha rápidamente hacia adelante
+si te estas acercando y estás a la distancia requerida, gira tu rueda izquierda muy lento hacia atrás mientras giras la rueda derecha rápidamente hacia adelante
+
+
+Cuando estés cerca a la pared, y te estás acercando más a ella, gira tu rueda izquierda muy rápido hacia atrás, y gira tu rueda derecha muy rápido hacia delante.
+si te estás acercando a la pared estando cerca de ella, gira tu rueda izquierda muy rápido hacia atrás y tu rueda derecha muy rápido hacia adelante
+si estás en la distancia requerida y te estás acercando a ella, debes girar tu rueda izquierda muy rápido hacía atrás mientas giras la derecha muy rápido hacía adelante
+cuando te estés acercando a la pared, pero estás a la distancia requerida, debes girar tu rueda izquierda muy rápido hacia atrás y la rueda derecha muy rápido hacia adelante
+
+
+Cuando estés muy cerca a la pared, y te estás acercando aún más a ella, gira tu rueda izquierda despacito hacia atrás, y gira tu rueda derecha despacito hacia atrás.
+si te estás acercando a la pared, pero ya estás muy cerca de ella, gira tu rueda izquierda y derecha despacito hacía atrás
+si estás muy cerca a la pared y sigues acercándote a ella, gira tus dos ruedas despacito hacia atrás
+en caso de que estés muy cerca a la pared y te sigas acercando, gira tu rueda izquierda despacito hacía atrás, al igual que la derecha 
+
+
+Cuando estés muy lejos de la pared, pero ni te alejas más ni te acercas a ella, gira tu rueda izquierda bastante rápido hacia delante, y gira tu rueda derecha despacito hacia atrás
+Cuando estás muy lejos de la pared y no te acercas, pero tampoco te alejas, gira tu rueda izquierda bastante rápido hacia adelante y la derecha despacito hacia atrás
+En caso de que no te estés acercando ni alejando de la pared y además estas muy lejos de ella, despacito hacía atrás gira tu rueda derecha mientras la rueda izquierda va bastante rápido hacia adelante
+si estás muy lejos de la pared y no te acercas y ni te alejas, gira tu rueda izquierda bastante rápido hacía adelante 
+
+
+Cuando estés lejos de la pared, pero ni te alejas más ni te acercas a ella, gira tu rueda izquierda rápidamente hacia delante, y gira tu rueda derecha muy lento hacia atrás.
+Si no te acercas y ni te alejas, pero estás lejos de la pared, gira tu rueda derecha muy lento hacia atrás, pero la izquierda muy rápidamente hacia adelante  
+en caso de que estés lejos de la pared y no te estés acercando ni alejando de ella, gira tu rueda izquierda hacia adelante rápidamente mientras la derecha la giras muy lento hacia atrás
+cuando no te estés alejando ni acercando a la pared pero aún estás lejos, gira la rueda derecha muy lento hacía atrás y la izquierda rápidamente hacia adelante
+
+
+Cuando estés a la distancia requerida, y ni te alejas ni te acercas a ella, gira tu rueda izquierda despacito hacia delante, y gira tu rueda derecha despacito hacia delante.
+cuando estén a la distancia que es, y ni te acercas o alejas de la pared, vas a girar la rueda izquierda despacito hacia adelante, y tu rueda derecha despacito hacía delante
+si no te acercas ni te alejas di la pared y estás a la distancia correcta, gira tu rueda izquierda y derecha despacito hacia delante
+en caso de que estés a la distancia requerida de la pared y no te estés acercando ni alejando de ella, debes girar las dos ruedas despacito hacia adelante
+
+
+Cuando estés cerca a la pared, pero ni te acercas más ni te alejas de ella, gira tu rueda izquierda bastante rápido hacia atrás, y gira tu rueda derecha bastante rápido hacia delante.
+en caso de estar cerca a la pared y no te acercas ni te alejas de ella, bastante rápido hacia atrás vas a girar tu rueda izquierda, igualmente tu rueda derecha pero hacia adelante
+si no te alejas ni te acercas a la pared, pero estás cerca de ella, debes girar bastante rápido tu rueda derecha hacia delante e igualmente tu rueda izquierda pero hacia atrás
+cuando estés cerca de la pared y no te alejas de ella, pero tampoco te acercas, debes girar tu rueda derecha bastante rápido hacia adelante y la izquierda igualmente hacia atrás
+
+
+Cuando estés muy cerca a la pared, pero ni te acercas más ni te alejas de ella, gira tu rueda izquierda despacito hacia atrás, y gira tu rueda derecha despacito hacia atrás.
+Si estás muy cerca a la pared pero no te acercas hacia ella ni te alejas de ella, debes girar despacito la rueda izquierda hacia atrás y la rueda derecha hacia atrás de la misma manera.
+Cuando te encuentres muy cerca a la pared sin acercarte ni alejarte de ella, es necesario que gires despacito la rueda izquierda hacia atrás y la rueda derecha de la misma manera
+Si te encuentras muy cerca a la pared sin acercarte ni alejándote, debes girar despacito la rueda izquierda hacia atrás y la rueda derecha de la misma manera hacia atrás.
+
+
+Cuando estés muy lejos de la pared, y te estás alejando aun más de ella, gira tu rueda izquierda muy rápido hacia delante, y gira tu rueda derecha más o menos rápido hacia atrás.
+si te estás alejando de la pared y aún te encuentras muy lejos de ella, gira tu rueda izquierda muy rápido hacia delante y tu rueda derecha más o menos rápido hacia atrás
+si te encuentras muy lejos de la pared y sigues alejándote de ella, gira tu rueda izquierda muy rápido hacia adelante y tu rueda derecha hacia atrás más o menos rápido 
+en caso de estar muy lejos y sigues alejándote de la pared, debes girar tu rueda izquierda muy rápido hacia adelante y tu rueda derecha más o menos rápido hacia atrás
+
+
+Cuando estés lejos de la pared, y te estás alejando más de ella, gira tu rueda izquierda bastante rápido hacia delante, y gira tu rueda derecha despacito hacia atrás.
+Si te encuentras lejos de la pared y te alejas cada vez más de ella, debes girar la rueda izquierda bastante rapidez hacia adelante, mientras que giras la rueda derecha hacia atrás despacito
+en caso de que te alejes de la pared y te encuentres lejos de ella, debes girar la rueda izquierda bastante rápido hacia adelante y la derecha despacito hacia atrás
+si estás lejos de la pared y te sigues alejando de ella, debes girar bastante rápido hacia adelante tu rueda izquierda y tu rueda derecha despacito hacia atrás
+
+
+Cuando estés a la distancia requerida, pero te estás alejando de la pared, gira tu rueda izquierda rápidamente hacia delante, y gira tu rueda derecha muy lento hacia atrás.
+cuando estén a la distancia que es, y te estás alejando de la pared, vas a girar la rueda izquierda rápidamente hacia adelante, y tu rueda derecha muy lento hacia atrás
+si te estás alejando pared y estás a la distancia correcta, gira tu rueda derecha muy lento hacia atrás mientras la izquierda la giras rápidamente hacia delante
+en caso de que estés a la distancia requerida de la pared y te estés alejando de ella, debes girar rápidamente hacia adelante la rueda derecha y muy lento hacia atrás la rueda izquierda
+
+
+Cuando estés cerca a la pared, pero te estás alejando de ella, gira tu rueda izquierda muy lento hacia delante, y gira tu rueda derecha medio rápido hacia delante.
+en caso de estar cerca a la pared y te estás alejando de ella, gira muy lento hacia delante tu rueda izquierda y tu rueda derecha medio rápido hacia delante
+si te alejas de la pared, pero estás cerca de ella, debes girar medio rápido tu rueda derecha hacia delante mientras tu rueda izquierda muy lento hacia atrás
+cuando estés cerca de la pared y te alejas de ella, debes girar tu rueda derecha medio rápido hacia adelante y la izquierda muy lento hacia atrás
+
+
+Cuando estés muy cerca a la pared, pero te estás alejando de ella, gira tu rueda izquierda despacito hacia atrás, y gira tu rueda derecha despacito hacia atrás.
+Si estás muy cerca a la pared y te alejas de ella, debes girar despacito la rueda izquierda hacia atrás y la rueda derecha de la misma manera.
+Cuando te encuentres muy cerca a la pared y te estás alejando de ella, es necesario que gires despacito la rueda izquierda hacia atrás y la rueda derecha de la misma manera
+Si te encuentras muy cerca de la pared y estás alejándote, debes girar despacito la rueda izquierda hacia atrás y la rueda derecha de la misma manera hacia atrás.
+
+
+
+
